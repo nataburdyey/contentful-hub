@@ -11,7 +11,7 @@ This React project leverages `Contentful` as a headless CMS to efficiently store
 
 
 ### Explore The Website
-[Contentful CMS on Netlify]()
+[Contentful CMS on Netlify](https://contentful-hub.netlify.app/)
 
 ### Preview
 
